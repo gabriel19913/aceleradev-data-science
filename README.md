@@ -1,4 +1,8 @@
-# Projeto final da aceleração da codenation (Data Science)
+.. image:: https://anaconda.org/conda-forge/scrapy/badges/version.svg
+   :target: https://anaconda.org/conda-forge/scrapy
+   :alt: Conda Version
+
+# Projeto final - Aceleradev - Codenation (Data Science)
 
 ## Objetivo
 <p align="justify">O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).</p>
@@ -17,6 +21,7 @@ Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de po
 
 <p align="justify">
 As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.</p>
+
 [Descrição das variáveis](https://s3-us-west-1.amazonaws.com/codenation-challenges/ml-leads/features_dictionary.pdf)
 
 ## Sobre o projeto
