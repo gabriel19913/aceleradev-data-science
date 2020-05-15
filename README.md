@@ -1,7 +1,3 @@
-.. image:: https://anaconda.org/conda-forge/scrapy/badges/version.svg
-   :target: https://anaconda.org/conda-forge/scrapy
-   :alt: Conda Version
-
 # Projeto final - Aceleradev - Codenation (Data Science)
 
 ## Objetivo
